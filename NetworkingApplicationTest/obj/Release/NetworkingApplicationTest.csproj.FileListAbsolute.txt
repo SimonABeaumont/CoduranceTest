@@ -1,0 +1,7 @@
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicationTest\bin\Release\NetworkingApplicationTest.dll
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicationTest\bin\Release\NetworkingApplicationTest.pdb
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicationTest\bin\Release\NetworkingApplication.exe
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicationTest\bin\Release\NetworkingApplication.pdb
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicationTest\obj\Release\NetworkingApplicationTest.csprojResolveAssemblyReference.cache
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicationTest\obj\Release\NetworkingApplicationTest.dll
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicationTest\obj\Release\NetworkingApplicationTest.pdb
