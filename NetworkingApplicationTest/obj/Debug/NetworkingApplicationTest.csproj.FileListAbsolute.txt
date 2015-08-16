@@ -1,0 +1,14 @@
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicatinoTest\bin\Debug\NetworkingApplicatinoTest.dll
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicatinoTest\bin\Debug\NetworkingApplicatinoTest.pdb
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicatinoTest\bin\Debug\NetworkingApplication.exe
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicatinoTest\bin\Debug\NetworkingApplication.pdb
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicatinoTest\obj\Debug\NetworkingApplicationTest.csprojResolveAssemblyReference.cache
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicatinoTest\obj\Debug\NetworkingApplicatinoTest.dll
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicatinoTest\obj\Debug\NetworkingApplicatinoTest.pdb
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicationTest\bin\Debug\NetworkingApplicationTest.dll
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicationTest\bin\Debug\NetworkingApplicationTest.pdb
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicationTest\bin\Debug\NetworkingApplication.exe
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicationTest\bin\Debug\NetworkingApplication.pdb
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicationTest\obj\Debug\NetworkingApplicationTest.csprojResolveAssemblyReference.cache
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicationTest\obj\Debug\NetworkingApplicationTest.dll
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicationTest\obj\Debug\NetworkingApplicationTest.pdb

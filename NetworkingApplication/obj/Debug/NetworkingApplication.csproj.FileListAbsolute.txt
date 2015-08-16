@@ -1,0 +1,6 @@
+C:\Development\Codurance\NetworkingApplication\NetworkingApplication\bin\Debug\NetworkingApplication.exe.config
+C:\Development\Codurance\NetworkingApplication\NetworkingApplication\bin\Debug\NetworkingApplication.exe
+C:\Development\Codurance\NetworkingApplication\NetworkingApplication\bin\Debug\NetworkingApplication.pdb
+C:\Development\Codurance\NetworkingApplication\NetworkingApplication\obj\Debug\NetworkingApplication.csprojResolveAssemblyReference.cache
+C:\Development\Codurance\NetworkingApplication\NetworkingApplication\obj\Debug\NetworkingApplication.exe
+C:\Development\Codurance\NetworkingApplication\NetworkingApplication\obj\Debug\NetworkingApplication.pdb

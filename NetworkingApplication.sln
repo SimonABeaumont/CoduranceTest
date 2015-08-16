@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Windows Desktop
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkingApplication", "NetworkingApplication\NetworkingApplication.csproj", "{886FC562-ED5E-4CEC-AA18-058C6109E9EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkingApplicationTest", "NetworkingApplicationTest\NetworkingApplicationTest.csproj", "{0F89F14B-F9B8-4037-9A86-9A07ABE50BEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{886FC562-ED5E-4CEC-AA18-058C6109E9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886FC562-ED5E-4CEC-AA18-058C6109E9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886FC562-ED5E-4CEC-AA18-058C6109E9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886FC562-ED5E-4CEC-AA18-058C6109E9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F89F14B-F9B8-4037-9A86-9A07ABE50BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F89F14B-F9B8-4037-9A86-9A07ABE50BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F89F14B-F9B8-4037-9A86-9A07ABE50BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F89F14B-F9B8-4037-9A86-9A07ABE50BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicatinoTest\bin\Debug\NetworkingApplicatinoTest.dll
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicatinoTest\bin\Debug\NetworkingApplicatinoTest.pdb
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicatinoTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicatinoTest\obj\Debug\NetworkingApplicatinoTest.csprojResolveAssemblyReference.cache
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicatinoTest\obj\Debug\NetworkingApplicatinoTest.dll
+C:\Development\Codurance\NetworkingApplication\NetworkingApplicatinoTest\obj\Debug\NetworkingApplicatinoTest.pdb
