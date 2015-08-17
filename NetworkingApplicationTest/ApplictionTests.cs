@@ -17,7 +17,7 @@ namespace NetworkingApplicationTest
             {
                 Console.SetOut(sw);
 
-                using (StringReader sr = new StringReader(string.Format("Test", Environment.NewLine)))
+                using (StringReader sr = new StringReader(""))
                 {
                     Console.SetIn(sr);
                     String helpMessage = "send message to console";
